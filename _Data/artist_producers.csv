@@ -1,0 +1,21 @@
+producer_id,producer_name,producer_country,producer_type,first_project_date,last_project_date
+1,George Martin,UK,Recording,1962-09-11,2006-03-18
+2,Quincy Jones,USA,Production,1951-01-01,2021-03-14
+3,Sam Phillips,USA,Recording,1945-01-01,2003-07-30
+4,Beyonce Knowles,USA,Production,2003-01-01,2021-03-14
+5,Patrick Leonard,USA,Production,1984-01-01,2019-09-21
+6,Prince,USA,Production,1978-01-01,2016-04-21
+7,David Bowie,UK,Production,1967-01-01,2016-01-10
+8,Clive Davis,USA,Production,1972-01-01,2021-03-14
+9,Brian Eno,UK,Production,1979-01-01,2017-12-01
+10,Rick Rubin,USA,Production,1982-01-01,2021-03-14
+11,Bob Marley,Jamaica,Production,1965-01-01,1981-05-11
+12,Bob Rock,Canada,Production,1986-01-01,2021-03-14
+13,Roy Thomas Baker,UK,Production,1972-01-01,2019-07-21
+14,Jimmy Page,UK,Production,1968-01-01,2021-03-14
+15,Mike Clink,USA,Production,1987-01-01,2019-09-21
+16,Nigel Godrich,UK,Production,1997-01-01,2021-03-14
+17,Matt Bellamy,UK,Production,2001-01-01,2021-03-14
+18,David Gilmour,UK,Production,1984-01-01,2021-03-14
+19,Noel Gallagher,UK,Production,2000-01-01,2021-03-14
+20,Ken Nelson,UK,Production,1998-01-01,2018-01-01

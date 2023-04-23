@@ -1,0 +1,11 @@
+order_id,supplier,country,quantity,purchase_price,total_cost
+1001,ABC Manufacturing,USA,500,10.99,5495.00
+1002,XYZ Corp,China,1000,5.25,5250.00
+1003,DEF Industries,Mexico,250,19.99,4997.50
+1004,GHI Corp,Canada,100,8.50,850.00
+1005,JKL Manufacturing,USA,750,12.75,9562.50
+1006,LMN Corp,Germany,500,7.99,3995.00
+1007,PQR Industries,France,200,15.50,3100.00
+1008,STU Corp,Japan,1000,6.99,6990.00
+1009,VWX Manufacturing,USA,300,22.50,6750.00
+1010,YYZ Corp,Brazil,400,11.25,4500.00

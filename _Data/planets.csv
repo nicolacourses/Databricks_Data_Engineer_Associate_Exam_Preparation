@@ -1,0 +1,6 @@
+planet_id|planet_age|planet_name|atmosphere|
+1|4.6|Mercury|{"exist":"Yes","pure":"No","polluted":"Yes","acid":"No","volcanic":"No"}|[{"explorer_name":"Mariner","explorer_surname":"Venier","explorer_institute":"NASA"},{"explorer_name":"Simone","explorer_surname":"Amadio","explorer_institute":"NASA"}]
+2|9.4|Kepler 124|{"exist":"Yes","pure":"No","polluted":"Yes","acid":"Yes","volcanic":"No"}|[{"explorer_name":"Nicola","explorer_surname":"Filosi","explorer_institute":"Soviet Union"},{"explorer_name":"Giorgio","explorer_surname":"Colucci","explorer_institute":"NASA"}]
+3|7.6|Kepler 428|{"exist":"Yes","pure":"Yes","polluted":"No","acid":"No","volcanic":"No"}|[{"explorer_name":"Yuri","explorer_surname":"Gagarin","explorer_institute":"Soviet Union"},{"explorer_name":"Neil","explorer_surname":"Armstrong", "explorer_institute":"URSS"}]
+4|2.8|HD 1001|{"exist":"Yes","pure":"Yes","polluted":"No","acid":"No","volcanic":"No"}|[{"explorer_name":"NA","explorer_surname":"NA","explorer_institute":"NA"},{"explorer_name":"NA","explorer_surname":"NA", "explorer_institute":"NA"}]
+5|5.1|Proxima Centaury|{"exist":"Yes","pure":"No","polluted":"No","acid":"No","volcanic":"Yes"}|[{"explorer_name":"NA","explorer_surname":"NA","explorer_institute":"NA"},{"explorer_name":"NA","explorer_surname":"NA", "explorer_institute":"NA"}]
